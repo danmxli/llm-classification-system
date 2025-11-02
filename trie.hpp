@@ -2,7 +2,7 @@
 #define TRIE_HPP
 
 #include "trienode.hpp"
-#include "ece250_socket.h"
+#include "llm_socket.h"
 #include "illegal_exception.hpp"
 #include <string>
 #include <iostream>

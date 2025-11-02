@@ -1,0 +1,6 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+numpy>=1.26.0
+torch>=2.2.0 ; platform_system != "Darwin" or platform_machine != "arm64"
+sentence-transformers==3.2.0

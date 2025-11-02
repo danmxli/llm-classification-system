@@ -48,6 +48,7 @@ test/
 *.zip
 *.tar.gz
 
-# Socket helpers to interact with proprietary LLM
-ece250_socket.h
-ece250_socket.cpp
+# Misc
+*.venv
+include/
+__pycache__
