@@ -52,3 +52,4 @@ test/
 *.venv
 include/
 __pycache__
+test_*.txt
